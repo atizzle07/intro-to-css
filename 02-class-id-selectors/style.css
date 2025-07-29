@@ -4,9 +4,7 @@ p {
     color: black;
 }
 
-.num1, 
-.num3, 
-.num5 {
+.odd {
     background-color: rgb(253, 175, 175);
     font-family: Verdana, DejaVu Sans, sans-serif;
 
