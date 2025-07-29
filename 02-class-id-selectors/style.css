@@ -1,4 +1,28 @@
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
+    color: black;
+}
+
+.num1, 
+.num3, 
+.num5 {
+    background-color: rgb(253, 175, 175);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+#num2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.num3 {
+    font-size: 24px;
+}
+
+#num4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(135, 255, 175);
 }
