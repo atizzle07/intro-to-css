@@ -8,21 +8,27 @@
     background-color: yellow;
     border-color: black;
     border-style: solid;
-    border-width: 3px;
 }
 
 body {
+    background-color: black;
+    justify-content: center;
+}
+
+.first,
+.second {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
-    width: auto;
-    margin: 2px;
-    background-color: black;
+    width: fit-content;
 }
 
 .main {
     display:flex;
-    margin: 2px;
+    padding: 5px;
     background-color: white;
     justify-content: center;
+    width: fit-content;
+
+    gap: 5px;
 }
 
